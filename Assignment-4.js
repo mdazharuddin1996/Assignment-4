@@ -1,0 +1,6 @@
+
+function calculateTax(income, expenses) {
+        
+}
+
+
